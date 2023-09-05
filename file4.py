@@ -6,4 +6,17 @@ def factorial(n):
 
 number = int(input("Enter a number: "))
 print(f"The factorial of {number} is: {factorial(number)}")
-print(f"The factorial of {number} is: {factorial(number)}")
+print(f"The area of the rectangle is: {area}")
+
+print(f"The area of the rectangle is: {area}")
+
+print(f"The area of the rectangle is: {area}")
+
+print(f"The area of the rectangle is: {area}")
+
+print(f"The area of the rectangle is: {area}")
+
+print(f"The area of the rectangle is: {area}")
+
+print(f"The area of the rectangle is: {area}")
+
